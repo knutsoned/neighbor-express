@@ -51,6 +51,8 @@ Click the button below to start a Zeit import. It will fork the Neighbor Express
 
 Now you have your own deployment of the Neighbor Express website. You can click the production deployment link in Vercel to see the live site.
 
+NOTE: For local development, copy .env.example to .env and fill in the variables above. Then you can "npm run dev" will work locally.
+
 You're almost there! The next step is to use the Airtable CMS to customize the website for your city.
 
 #### Change site content
